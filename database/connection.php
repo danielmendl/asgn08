@@ -1,5 +1,5 @@
 <?php
-$server="localhost";
-$user="danielm3_wbip";
-$pw="terminus";
-$db="test";
+define('SERVER' = 'localhost');
+define('USER' = 'danielm3_wbip');
+define('PW' = 'terminus');
+define('DB' = 'test');
